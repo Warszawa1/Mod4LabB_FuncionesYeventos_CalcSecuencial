@@ -1,0 +1,2 @@
+# Mod4LabB_FuncionesYeventos_CalcSecuencial
+Calculadora Secuencial
